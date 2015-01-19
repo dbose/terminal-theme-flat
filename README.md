@@ -1,0 +1,1 @@
+Flat theme for Terminal
